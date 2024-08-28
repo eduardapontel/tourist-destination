@@ -13,7 +13,6 @@ body {
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    gap: 65px;
     color: #333;
 }
 
@@ -132,6 +131,7 @@ footer {
     font-family: 'Alice', serif;
     display: flex;
     align-items: center;
+    margin-top: 65px;
     gap: 4px;
 }
 
