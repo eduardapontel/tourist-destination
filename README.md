@@ -13,7 +13,7 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 
 <br>
 
-## HTML Structure 🏛️
+## HTML Structure 📝
 
 1. **Header**: Contains a headline and a main title.
 2. **Description Image Container**: Includes a large image of Busan and a description paragraph.
