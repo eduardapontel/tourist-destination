@@ -4,7 +4,7 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 
 <br>
 
-## Features 🎨
+## Features ✨
 
 - **Header**: Introduces the page with a headline and a main title.
 - **Description and Image**: Provides a brief description of Busan and displays a large image of the city.
@@ -37,7 +37,7 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 
 <br>
 
-## 🚀 How to Access the Project
+## How to Access the Project 🚀
 
 - Access it directly by clicking [here](https://eduardapontel.github.io/tourist-destination/).
 
