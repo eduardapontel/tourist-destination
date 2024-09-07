@@ -9,7 +9,7 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 - **Header**: Introduces the page with a headline and a main title.
 - **Description and Image**: Provides a brief description of Busan and displays a large image of the city.
 - **List of Destinations**: Presents three key historical sites to visit in Busan, each with a brief description and suitable categories (e.g., History, Couples, Families, Budget).
-- **Footer**: Credits the creators of the page.
+- **Footer**: Credits the designers of the page.
 
 <br>
 
@@ -37,9 +37,16 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 
 <br>
 
-## How to Use 🌐
+## 🚀 How to Access the Project
 
-View the project by clicking [here](https://eduardapontel.github.io/tourist-destination/).
+- Access it directly by clicking [here](https://eduardapontel.github.io/tourist-destination/).
+
+**Or** follow the steps below to run it locally:
+
+- Clone the repository:
+   ```git clone https://github.com/eduardapontel/tourist-destination.git```
+
+- Open `index.html` in your browser.
 
 <br>
 
