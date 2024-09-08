@@ -13,6 +13,14 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 
 <br>
 
+## Layout ✏️
+
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1384542229391733447).
+
+The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
+
+<br>
+
 ## HTML Structure 📝
 
 1. **Header**: Contains a headline and a main title.
