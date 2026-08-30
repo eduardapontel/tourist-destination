@@ -21,18 +21,6 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 <br>
 
-## HTML Structure 📝
-
-1. **Header**: Contains a headline and a main title.
-2. **Description Image Container**: Includes a large image of Busan and a description paragraph.
-3. **List Container**:
-    - **List Header**: Provides a heading and introductory text about the historical destinations.
-    - **List**: Contains three cards, each representing a must-see destination with an image, heading, description, and categories.
-4. **Final Paragraph**: A concluding statement about the city.
-5. **Footer**: Displays a credit message with an icon.
-
-<br>
-
 ## CSS Styling 🎨
 
 - **Reset**: Removes default padding and margins.
