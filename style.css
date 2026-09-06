@@ -86,7 +86,7 @@ h2 {
     gap: 48px;
 }
 
-#card {
+.card {
     display: flex;
     flex-direction: column;
     gap: 20px;
