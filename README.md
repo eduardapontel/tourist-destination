@@ -11,7 +11,7 @@ This project provides a webpage for discovering the city of Busan, South Korea. 
 - **List of Destinations**: Presents three key historical sites to visit in Busan, each with a brief description and suitable categories (e.g., History, Couples, Families, Budget).
 - **Footer**: Credits the designers of the page.
 
-<br>
+<br> 
 
 ## Layout ✏️
 
